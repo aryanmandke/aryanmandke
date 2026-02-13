@@ -4,14 +4,12 @@ I’m a Computer Engineering student and developer focused on building practical
 My experience includes developing projects in **NLP-based sentiment analysis, diabetes prediction using ML models, workout & diet recommendation systems, and attendance management platforms**, along with hands-on exposure to **data preprocessing, model building, and deployment workflows**.
 
 I’m actively strengthening my skills in **data engineering, deep learning (GANs & Transformers), and system-level programming**, while exploring modern software architectures and integration techniques.  
-I enjoy learning languages independently and can communicate comfortably in English and Japanese.  
-英語でも日本語でも対応できます。
 
 ---
 
 # 🌐 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/aryan-mandke-2a16ba25a)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mandkearyan@gmail.com)
 
 ---
 
@@ -51,13 +49,6 @@ I enjoy learning languages independently and can communicate comfortably in Engl
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-### 🎨 Creative & Misc
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat&logo=tampermonkey&logoColor=white)
 
 ---
 
