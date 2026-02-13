@@ -52,4 +52,4 @@ I’m actively strengthening my skills in **data engineering, deep learning (GAN
 
 ---
 
-⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/aryanmandke)
+⭐️ From [aryanmandke](https://github.com/aryanmandke)
